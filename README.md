@@ -4,5 +4,5 @@ Dự án TEAMWORK
 * Đào Nguyễn Thảo Quyên
 * Trần Minh Hiếu
 * Ngô Thị Linh 
-*Lưu Hiểu Khánh
+* Lưu Hiểu Khánh
 ## Tài liệu tham khảo
